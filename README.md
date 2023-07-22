@@ -1,5 +1,5 @@
 # disney-plus-clone
-This is a clone of disney hotstar (2021)
+This is a clone of disney hotstar (2021). Live demo: https://aditya-gec-vaishali-disney-clone.netlify.app/
 
 
 # Getting Started
